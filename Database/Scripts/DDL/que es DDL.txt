@@ -1,0 +1,3 @@
+DDL = Data Definition Language
+Define y modifica la estructura del esquema de la base de datos
+Principalmente aquí van los scripts de CREATE, ALTER o DROP TABLE

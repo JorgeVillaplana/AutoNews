@@ -1,0 +1,2 @@
+# Proyecto AutoNews
+La idea del proyecto es crear una plataforma/herramienta/app/automatización basada en la idea de recopilar noticias de diferentes fuentes y sintetizarlas y estructurarlas, creando un resumen organizado que más tarde pueda ser leído y/o escuchado, todo de forma periódica bajo un periodo de tiempo limitado.

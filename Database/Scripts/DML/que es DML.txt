@@ -1,0 +1,3 @@
+DML = Data Modification Language
+Gestiona los datos del esquema de la base de datos
+Principalmente scripts tipo INSERT, UPDATE o DELETE

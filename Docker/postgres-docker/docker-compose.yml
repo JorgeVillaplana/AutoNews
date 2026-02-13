@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgres:latest
+    container_name: postgres_container
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: autonews_db_user
+      POSTGRES_PASSWORD: galalajo23110
+      POSTGRES_DB: autonews_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql
+
+volumes:
+  postgres_data:
